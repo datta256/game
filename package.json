@@ -13,7 +13,8 @@
     "@tailwindcss/vite": "^4.0.6",
     "@webcontainer/api": "^1.5.1-internal.8",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "three": "^0.173.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.19.0",
